@@ -1,1 +1,1 @@
-# Data-Science-AI-Lessons
+# Data Science & Artifical Intelligence (Lessons)
