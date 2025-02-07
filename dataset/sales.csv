@@ -1,0 +1,11 @@
+Order_ID,Date,Product,Amount,Customer_ID
+Order_l,01/01/2023 00:00,Product_A,120,Customer_l
+Order_2,02/01/2023 00:00,Product_B,180,Customer_2
+Order_3,03/01/2023 00:00,Product_A,150,Customer_3
+Order_4,04/01/2023 00:00,Product_C,90,Customer_4
+Order_S,05/01/2023 00:00,Product_B,200,Customer_l
+Order_6,06/01/2023 00:00,Product_A,110,Customer_2
+Order_7,07/01/2023 00:00,Product_C,130,Customer_3
+Order_8,08/01/2023 00:00,Product_A,160,Customer_4
+Order_9,09/01/2023 00:00,Product_B,220,Customer_l
+Order_10,10/01/2023 00:00,Product_C,120,Customer_2

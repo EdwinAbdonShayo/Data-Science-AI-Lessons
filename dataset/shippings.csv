@@ -1,0 +1,11 @@
+Order_ID,Shipping_Cost,Shipping_Method,Shipping_Region
+Order_l,10,Express,North
+Order_2,15,Standard,South
+Order_3,8,Express,West
+Order_4,12,Standard,East
+Order_S,18,Express,North
+Order_6,9,Standard,South
+Order_7,14,Express,West
+Order_8,20,Standard,East
+Order_9,11,Express,North
+Order_10,16,Standard,South

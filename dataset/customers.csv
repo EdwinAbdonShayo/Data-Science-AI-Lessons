@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Region,Gender,Age,Segment,Loyalty_Level
+Customer_l,John Doe,North,Male,32,Gold,Platinum
+Customer_2,Jane Smith,South,Female,28,Silver,Gold
+Customer_3,Bob Johnson,West,Male,40,Platinum,Silver
+Customer_4,Alice Brown,East,Female,35,Gold,Bronze
+Customer_S,Charlie Davis,Central,Male,45,Silver,Platinum
+Customer_6,Emma White,North,Female,30,Bronze,Silver
+Customer_7,David Lee,South,Male,33,Silver,Bronze
+Customer_8,Sarah Taylor,West,Female,38,Gold,Platinum
+Customer_9,Michael Clark,East,Male,42,Platinum,Gold
+Customer_10,Olivia Hall,Central,Female,27,Bronze,Silver

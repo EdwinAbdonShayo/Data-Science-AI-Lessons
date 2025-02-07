@@ -1,0 +1,11 @@
+Product,Category,Base_Price,Discount,Supplier,Popularity_Score
+Product_A,Electronics,150,0.1,Supplier_X,8
+Product_B,Home & Kitchen,120,0.05,Supplier_Y,6
+Product_C,Clothing,80,0.2,Supplier_Z,9
+Product_D,Electronics,200,0.15,Supplier_X,7
+Product_E,Home & Kitchen,90,0.1,Supplier_Y,5
+Product_F,Clothing,110,0.18,Supplier_Z,8
+Product_G,Electronics,180,0.12,Supplier_X,6
+Product_H,Home & Kitchen,100,0.08,Supplier_Y,4
+Product_I,Clothing,130,0.25,Supplier_Z,7
+Product_J,Electronics,160,0.2,Supplier_X,9
